@@ -1,0 +1,22 @@
+{
+    "built-in": {
+        "Redirect": "untested",
+        "Test": "untested"
+    },
+    "char": {
+        "Functions": {},
+        "Array": {
+            "Convert": "untested"
+        }
+    },
+    "String": {
+        "Functions": {
+            "Alphabet": "untested, likely works",
+            "CustomAlphabet": "untested"
+        },
+        "Array": {
+            "Convert": "untested",
+            "Reconnect": "untested"
+        }
+    }
+}
