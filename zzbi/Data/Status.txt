@@ -1,0 +1,27 @@
+[zzbi]
+.[Data]
+..[OLD]
+...Status_json (not up-to-date, not proved accurate)
+..Status_txt (up-to-date, not yet proved accuratte)
+.[tJson]
+..PathFinder (untested)
+..PropertyPath (untested)
+..Read (untested)
+.Redirect (untested)
+.Test (untested)
+[CHAR]
+.[Functions]
+..[Array]
+...Convert (untested)
+[STRING]
+.[Functions]
+..Alphabet (untested, likely works)
+..CustomAlphabet (untested)
+[ANY]
+.[Functions]
+..[Array]
+...Includes (untested, likely works)
+...IndexOf (untested, likely works)
+[TXT]
+.[Functions]
+..Convert (tested, works)
