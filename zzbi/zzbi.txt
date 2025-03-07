@@ -1,0 +1,9 @@
+zzbi is all the built in parts of GeneralTools that are not intended for regular use.
+
+These classes are used for testing functions and querying the functionality of them, too. This is because I
+work on this on ChromeOS and Windows. ChromeOS does not have the ability to get apps like Intellij and VScode.
+However, VSCode provides a web version called vscode.dev, but you can't run anything and it doesnt show syntax errors,
+which is why there is a status feature. If anything says "untested" that means it probably won't work. If it says "tested, working" or
+"tested, functional" then its most likely safe to use.
+
+And in case your wondering, "zzbi" means "Built In" but with two Zs in the front so it will always be on the bottom (if its alphabetically ordered AND if theres no file/folder named zzzzzzzzzzzzzzzzzzzzzzzzzzz, but why would I do that?)
