@@ -1,4 +1,4 @@
-zzbi is all the built in parts of GeneralTools that are not intended for regular use.
+zzbi is all the built in parts of GeneralTools that are not intended for use.
 
 These classes are used for testing functions and querying the functionality of them, too. This is because I
 work on this on ChromeOS and Windows. ChromeOS does not have the ability to get apps like Intellij and VScode.
